@@ -1,0 +1,21 @@
+{
+  "name": "node-bare-starter",
+  "description": "base starter",
+  "main": "app.js",
+  "authors": [
+    "Nisarga Patel <np8@umbc.edu>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nisargap/node-bare-starter",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#~0.97.1"
+  }
+}
